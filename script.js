@@ -12,7 +12,7 @@ const startQuiz=()=>{
     currentQuestionIndex=0;
     
     score=0;
-    nextBtn.innerHTML="Next";
+    nextBtn.innerHTML="Sonrakı";
     showQuestion();
 }
 
